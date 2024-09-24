@@ -1,0 +1,28 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Card 1",
+        "slug": "XYZ",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "isFeatured": true
+      },
+      {
+        "id": 2,
+        "title": "Card 2",
+        "slug": "XYZ",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "isFeatured": true,
+        "image": "/courses/piano.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Card 3",
+        "slug": "XYZ",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "isFeatured": true,
+        "image": "/courses/vocalist.jpg" 
+      }
+    ]
+  }
+  
